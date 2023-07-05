@@ -1,0 +1,8 @@
+com\hw\producer\CustomProducer.class
+com\hw\flink\FlinkConsumer.class
+com\hw\consumer\CustomOffsetSeek.class
+com\hw\consumer\CustomTimestampSeek.class
+com\hw\consumer\CustomConsumerAutoOffSet.class
+com\hw\consumer\CustomProducer.class
+com\hw\consumer\CustomConsumerCommitSync.class
+com\hw\flink\FlinkProducer.class
